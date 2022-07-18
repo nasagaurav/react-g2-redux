@@ -1,12 +1,12 @@
 import React from 'react';
 import ViewNumbers from './ViewNumbers';
-import ViewNumbers from './ViewTopic';
-import ViewNumbers from './ViewTodos';
-import ViewNumbers from './ViewCounter';
-import ViewNumbers from './ViewNumbers';
-import ViewNumbers from './ViewTopic';
-import ViewNumbers from './ViewTodos';
-import ViewNumbers from './ViewCounter';
+import ViewTopic from './ViewTopic';
+import ViewTodos from './ViewTodos';
+import ViewCounter from './ViewCounter';
+import AddNumbers from './AddNumbers';
+import AddTopic from './AddTopic';
+import AddTodos from './AddTodos';
+import AddCounter from './AddCounter';
 
 export default function App() {
   return (
