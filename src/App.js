@@ -11,15 +11,14 @@ import ViewNumbers from './ViewCounter';
 export default function App() {
   return (
     <div>
-<ViewNumbers />
-<ViewTopic />
-<ViewTodos />
-<ViewCounter />
-<AddNumbers />
-<AddTopic />
-<AddTodos /> 
-<AddCounter />
-
+      <AddNumbers />
+      <AddTopic />
+      <AddTodos />
+      <AddCounter />
+      <ViewNumbers />
+      <ViewTopic />
+      <ViewTodos />
+      <ViewCounter />
     </div>
   );
 }
